@@ -9,7 +9,7 @@
 
 
 header {
-    background-color: rgb(230, 225, 225);
+    background-color: rgb(241, 238, 238);
     padding: 10px 0px;
 }
 /*Navbar*/
@@ -27,7 +27,7 @@ header {
 
 /*Apresentacao-top */
 .apresentacao-top {
-    background-color: rgb(230, 225, 225);
+    background-color: rgb(241, 238, 238);
     border: 1px solid blue;
     height: 500px;
 }
