@@ -12,43 +12,55 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <!--Seção Header-->
     <header>
-      <nav class="navbar navbar-expand-lg">
-          <div class="container">
-            <img src="img/logo site.png" alt="" style="height: 60px; border-radius: 50px;"><a class="navbar-brand" href="./"></a></img>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-              <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="#">Home</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Contato</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Portfólio</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Sobre</a>
-                </li>
-                <li class="nav-item dropdown">
-                  <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <li><a class="dropdown-item" href="#">Action</a></li>
-                    <li><a class="dropdown-item" href="#">Another action</a></li>
-                    <li><hr class="dropdown-divider"></li>
-                    <li><a class="dropdown-item" href="#">Something else here</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container m-auto">
+          <a class="navbar-brand" href="./"><img src="img/logo site.png" alt="" style="height: 60px; border-radius: 50px;"></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Portfólio</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Contato</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Sobre</a>
+              </li>
+            </ul>
           </div>
-        </nav>
+        </div>
+      </nav>
     </header>
+    <!--Fim Seção Header-->
+
+    <!--Seção Apresentação-->
     <div class="container-fluid apresentacao-top">
-      
+      <div class="row container m-auto">
+        <div class="m-auto col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6  apresentacao-text">
+          <h6>Quer criar seu site ? </h6>
+          <h1>Conheça nossos serviços criação de páginas web
+            faça seu site com alta qualidade</h1>
+        </div>
+        <div class="m-auto col-12 col-sm-12 col-md-12 col-lg-6 coxl-6 d-flex justify-content-center">
+          <img src="img/undraw_heatmap_uyye.png" alt="" style="height: 219px;">
+        </div>
+      </div>
+      <div class=" row container m-auto">
+        <div class="col-12 col-sm-12 col-md-12  col-lg-6 col-xl-6 buttons">
+          <a class="portfolio" href="#Portfólio">Portfólio</a>
+          <a class="contato" href="#Contato">Contato</a>
+        </div>
+      </div>
     </div>
+    <!--Fim Seção Apresentação-->
       <script src="js/bootstrap.min.js"></script>
 </body>
 </html>
