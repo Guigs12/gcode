@@ -7,6 +7,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
 
+body {
+    scroll-behavior: smooth;
+}
+
 /*Navbar*/
 
 .navbar {
@@ -227,15 +231,17 @@ a.portfolio:hover {
 }
 
 .portfolio img {
-    box-shadow: 1px 1px 6px 1px;
-}
-
-.portfolio h6 {
-    color: black;
+    box-shadow: 1px 1px 6px 1px #ffff;
 }
 
 .portfolio h4 {
     color: #183086;
+    text-transform: uppercase;
+    padding: 10px 0px;
+}
+
+.portfolio h6 {
+    color: black;
 }
 
 /* Fim Seção Portfólio */
