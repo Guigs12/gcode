@@ -243,7 +243,11 @@ a.portfolio:hover {
 /* Seção Footer */
 footer {
     background-color: #183086;
-    padding: 5px;
+    padding: 10px;
+}
+
+.contain-footer p {
+    padding: 5px 0px;
 }
 
 footer h5 {
@@ -257,6 +261,7 @@ footer p {
     color: white;
     font-weight: lighter;
     font-size: 17px;
+    margin: 10px 0px;
 }
 
 footer a {
