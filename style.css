@@ -62,7 +62,7 @@
 
 .contato {
     font-size: 17px;
-    font-weight: lighter;
+    font-weight: bold;
     text-decoration: none;
     background-color: #183086;
     color: #fbfbfb;
@@ -79,7 +79,7 @@
 a.portfolio {
     border: 1px solid #183086;
     font-size: 17px;
-    font-weight: lighter;
+    font-weight: bold;
     text-decoration: none;
     transition: 1s;
     color: #183086;
@@ -148,6 +148,10 @@ a.portfolio:hover {
 .servico-title {
     color: #183086;
     text-transform: uppercase;
+}
+
+.card {
+    padding: 40px 0px;
 }
 
 .card-body {
@@ -270,5 +274,11 @@ footer a:hover {
 @media screen and (max-width: 375px) {
     .img-apresentacao-top img{
         height: 150px;
+    }
+
+    .apresentacao-text h6 {
+        font-size: 32px;
+        font-weight: 500;
+        width: 100%;
     }
 }
