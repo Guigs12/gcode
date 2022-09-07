@@ -66,11 +66,11 @@ body {
 
 .contato {
     font-size: 17px;
-    font-weight: bold;
+    font-weight: normal;
     text-decoration: none;
     background-color: #183086;
     color: #fbfbfb;
-    transition: 1.5s;
+    transition: all 1.5s;
     padding: 5px 20px;    
 }
 
@@ -83,9 +83,9 @@ body {
 a.portfolio {
     border: 1px solid #183086;
     font-size: 17px;
-    font-weight: bold;
+    font-weight: normal;
     text-decoration: none;
-    transition: 1s;
+    transition: all 1s;
     color: #183086;
     padding: 5px 10px;
 }
