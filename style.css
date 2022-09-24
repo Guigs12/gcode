@@ -158,7 +158,7 @@ a.portfolio:hover {
 }
 
 .card-body {
-    border: 1px solid #183086;
+    background-color: #F0F8FF;
     border-radius: 15px;
 }
 
