@@ -158,13 +158,13 @@ a.portfolio:hover {
 }
 
 .card-body {
-    background-color: #F0F8FF;
+    background-color: rgb(240, 255, 255);
     border-radius: 15px;
 }
 
 .card-title {
     color: #183086;
-    border-bottom: 1px solid;
+    padding: 10px 0px;
 }
 
 .card-text {
