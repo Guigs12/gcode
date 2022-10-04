@@ -164,7 +164,7 @@ a.portfolio:hover {
 }
 
 .card-title {
-    color: #183086;
+    color: #2c57f3;
     padding: 10px 0px;
 }
 
@@ -238,6 +238,11 @@ a.portfolio:hover {
     color: #183086;
     text-transform: uppercase;
     padding: 20px 0px;
+}
+
+.portfolio p {
+    color: #2c57f3;
+    font-weight: 500;
 }
 
 .portfolio h6 {
