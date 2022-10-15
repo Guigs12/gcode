@@ -158,8 +158,9 @@ a.portfolio:hover {
 }
 
 .card-body {
-    background-color: #252525;
+    background-color: #fbfbfb;
     border-radius: 15px;
+    box-shadow: 1px 1px 10px 4px #5377f8;
 }
 
 .card-title {
@@ -170,7 +171,6 @@ a.portfolio:hover {
 .card-text {
     font-size: 17px;
     font-weight: 500px;
-    color: white;
 }
 /*Fim Seção Servicos*/
 
