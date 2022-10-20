@@ -286,6 +286,12 @@ footer a:hover {
     color: white;
 }
 /* Fim Seção Footer */
+@media screen and (max-width: 480px) {
+    .apresentacao-text h6 {
+        font-size: 30px;
+    }
+}
+
 
 @media screen and (max-width: 375px) {
     .img-apresentacao-top img{
@@ -293,8 +299,14 @@ footer a:hover {
     }
 
     .apresentacao-text h6 {
-        font-size: 32px;
+        font-size: 26px;
         font-weight: 500;
         width: 100%;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .apresentacao-text h6 {
+        font-size: 22px;
     }
 }
