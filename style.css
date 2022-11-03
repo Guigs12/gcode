@@ -54,7 +54,7 @@ body {
 }
     /*Conteúdo*/
 .apresentacao-text {
-    color: #183086;
+    color: #000000;
 }
 
 .apresentacao-text h6 {
@@ -163,7 +163,7 @@ a.portfolio:hover {
 }
 
 .servico-title {
-    color: #183086;
+    color: #000000;
     text-transform: uppercase;
 }
 
@@ -240,7 +240,7 @@ a.portfolio:hover {
 }
 
 .portfolio:hover {
-    color: #183086;
+    color: #000000;
     background-color: white;
 }
 
@@ -249,7 +249,7 @@ a.portfolio:hover {
 }
 
 .portfolio h4 {
-    color: #183086;
+    color: #000000;
     text-transform: uppercase;
     padding: 20px 0px;
 }
