@@ -51,7 +51,7 @@ body {
 }
     /*Conteúdo*/
 .apresentacao-text {
-    color: #000000;
+    color: #251563;
 }
 
 .apresentacao-text h6 {
@@ -109,7 +109,7 @@ a.portfolio:hover {
 
 /*Seção sobre*/
 #sobre {
-    background-color: #364584;
+    background-color: #251563;
     padding: 40px;
 }
 
@@ -118,7 +118,6 @@ a.portfolio:hover {
 }
 
 .text-sobre h4 {
-    border-bottom: 1px solid white;
     font-size: 24px;
     font-weight: 500;
 }
@@ -136,12 +135,11 @@ a.portfolio:hover {
 }
 
 .text-foco {
-    color: white;
+    color: #CFE4E2;
     margin-top: 10px;
 }
 
 .text-foco h4 {
-    border-bottom: 1px solid;
     font-size: 24px;
     font-weight: 500;
 }
@@ -186,7 +184,7 @@ a.portfolio:hover {
 /*Fim Seção Servicos*/
 
 .tecnologias {
-    color: white;
+    color: #CFE4E2;
     text-transform: uppercase;
     font-weight: 500;
     margin-bottom: 20px;
@@ -195,7 +193,7 @@ a.portfolio:hover {
 /* Seção Linguagens */
 
 .linguagens-title h4 {
-    color: WHITE;
+    color: #CFE4E2;
 }
 
 .linguagens-itens {
@@ -203,14 +201,14 @@ a.portfolio:hover {
 }
 
 .linguagens-itens h6 {
-    color: WHITE;
+    color: #CFE4E2;
 }
 /*Fim Seção Linguagens */
 
 /* Seção Ferramentas */
 
 .ferramentas {
-    background-color: #364584;
+    background-color: #251563;
 }
 
 .ferramentas-title h4 {
@@ -234,7 +232,7 @@ a.portfolio:hover {
 }
 
 .portfolio:hover {
-    color: #000000;
+    color: #251563;
     background-color: white;
 }
 
@@ -243,7 +241,7 @@ a.portfolio:hover {
 }
 
 .portfolio h4 {
-    color: #000000;
+    color: #251563;
     text-transform: uppercase;
     padding: 20px 0px;
 }
