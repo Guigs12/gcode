@@ -114,7 +114,7 @@ a.portfolio:hover {
 }
 
 .text-sobre {
-    color: white;
+    color: #CFE4E2;
 }
 
 .text-sobre h4 {
@@ -214,7 +214,7 @@ a.portfolio:hover {
 }
 
 .ferramentas-title h4 {
-    color: WHITE;
+    color: #CFE4E2;
 }
 
 .ferramentas-itens {
@@ -222,7 +222,7 @@ a.portfolio:hover {
 }
 
 .ferramentas-itens h6 {
-    color: WHITE;
+    color: #CFE4E2;
 }
 /* Fim Seção Ferramentas */
 
@@ -270,28 +270,28 @@ footer {
 }
 
 footer h5 {
-    color: white;
+    color: #CFE4E2;
     font-weight: 500;
     font-size: 22px;
     padding: 15px 0px;
 }
 
 footer p {
-    color: white;
+    color: #CFE4E2;
     font-weight: lighter;
     font-size: 17px;
     margin: 10px 0px;
 }
 
 footer a {
-    color: white;
+    color: #CFE4E2;
     font-weight: lighter;
     font-size: 17px;
     text-decoration: none;
 }
 
 footer a:hover {
-    color: white;
+    color: #CFE4E2;
 }
 /* Fim Seção Footer */
 @media screen and (max-width: 480px) {
