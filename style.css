@@ -48,9 +48,6 @@ body {
 /*Apresentacao-top */
 .apresentacao-top {
     padding: 130px 0px;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
 }
     /*Conteúdo*/
 .apresentacao-text {
@@ -112,7 +109,7 @@ a.portfolio:hover {
 
 /*Seção sobre*/
 #sobre {
-    background-color: #191970;
+    background-color: #364584;
     padding: 40px;
 }
 
@@ -196,9 +193,6 @@ a.portfolio:hover {
 }
 
 /* Seção Linguagens */
-.linguagens {
-    background-color: #183086;
-}
 
 .linguagens-title h4 {
     color: WHITE;
@@ -216,7 +210,7 @@ a.portfolio:hover {
 /* Seção Ferramentas */
 
 .ferramentas {
-    background-color: #183086;
+    background-color: #364584;
 }
 
 .ferramentas-title h4 {
@@ -267,7 +261,7 @@ a.portfolio:hover {
 
 /* Seção Footer */
 footer {
-    background-color: #183086;
+    background-color: #364584;
     padding: 30px 10px;
 }
 
